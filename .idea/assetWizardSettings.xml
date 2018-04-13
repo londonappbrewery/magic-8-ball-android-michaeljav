@@ -13,23 +13,32 @@
                       <PersistentState>
                         <option name="children">
                           <map>
-                            <entry key="launcherLegacy">
+                            <entry key="launcher">
                               <value>
                                 <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="80" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\CursoAndroidScondProject\DownloadedGraphics\8Ball-Android-Asset\8Ball Android Assets\eight-Ball-Launch-Icon-Master.png" />
+                                      <entry key="foregroundImage" value="C:\DGCP_DOC_MJM\CurAndro8Ball\DownloadedGraphics\8Ball-Android-Asset\8Ball Android Assets\eight-Ball-Launch-Icon-Master.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
                               </value>
                             </entry>
-                          </map>
-                        </option>
-                        <option name="values">
-                          <map>
-                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
                           </map>
                         </option>
                       </PersistentState>
